@@ -1,7 +1,7 @@
-﻿// не поняла, надо ли писать 3 варианта решения этой задачи с разными цифрами или одно на все.
-//написала одно, но оно подходит под все числа
-int a = -9;
-int b = -3;
+﻿Console.WriteLine("Введите первое число ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число ");
+int b = Convert.ToInt32(Console.ReadLine());
 
 if (a > b) 
 {
