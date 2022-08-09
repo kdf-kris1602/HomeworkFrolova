@@ -1,0 +1,15 @@
+C:\projects\HomeWorkFrolova\task2\bin\Debug\net6.0\task2.exe
+C:\projects\HomeWorkFrolova\task2\bin\Debug\net6.0\task2.deps.json
+C:\projects\HomeWorkFrolova\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\projects\HomeWorkFrolova\task2\bin\Debug\net6.0\task2.dll
+C:\projects\HomeWorkFrolova\task2\bin\Debug\net6.0\task2.pdb
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.dll
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\refint\task2.dll
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.pdb
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\projects\HomeWorkFrolova\task2\obj\Debug\net6.0\ref\task2.dll
