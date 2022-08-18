@@ -1,20 +1,19 @@
 ﻿Console.WriteLine("Enter some 3-x number ");
 string x = Console.ReadLine();
-threeInOneOut(x);
+number(x);
 
-        void threeInOneOut(string someInt)
+        void number(string b)
         {
-            if (someInt.Length == 3)
+            if (b.Length == 3)
             {
-                Console.WriteLine(someInt.Trim(someInt[0], someInt[2]));
+                Console.WriteLine(b.Trim(b[0], b[2]));
             }
             else
             {
                 Console.WriteLine("wrong data,try again");
-                someInt = Console.ReadLine();
-                threeInOneOut(someInt);
+                b = Console.ReadLine();
+                number(b);
             }
         }
-
 
 
